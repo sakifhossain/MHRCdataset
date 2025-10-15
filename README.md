@@ -1,7 +1,7 @@
 <div align="center">
 <h1>MHRC: A Multimodal Human-Robot Collaboration Dataset for Human Motion Estimation</h1>
 <h3> <i>Sakif Hossain, Jörg P. Müller, and Madhumitha Kesavan</i></h3>
-<h4> <i>Technical University of Clausthal, Germany</i></h4>
+<h4> <i>Clausthal University of Technology, Germany</i></h4>
  
  
 </div>
@@ -21,4 +21,4 @@ Robots are being increasingly introduced into human spaces to support and aid th
 
 
 ### Citing
- If you use our code, please cite our work
+ If you use our code, please cite our work (#TBD)
