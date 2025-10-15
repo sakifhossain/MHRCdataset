@@ -1,9 +1,8 @@
 <div align="center">
 <h1>MHRC: A Multimodal Human-Robot Collaboration Dataset for Human Motion Estimation</h1>
 <h3> <i>Sakif Hossain, Jörg P. Müller, and Madhumitha Kesavan</i></h3>
- <h4> <i>Technical University of Clausthal, Germany</i></h4>
-  
- // [[Paper](https://proceedings.aaai-make.info/AAAI-MAKE-PROCEEDINGS-2022/paper14.pdf)]
+<h4> <i>Technical University of Clausthal, Germany</i></h4>
+ 
  
 </div>
 
