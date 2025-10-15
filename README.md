@@ -21,4 +21,4 @@ Robots are being increasingly introduced into human spaces to support and aid th
 
 
 ### Citing
- If you use our code, please cite our work (#TBD)
+ If you use our code, please cite our work (**TBD**)
