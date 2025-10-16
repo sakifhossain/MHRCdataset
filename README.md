@@ -7,7 +7,7 @@
 </div>
 
 <div align="justify">
-In this repository we present MHRC, a multimodal, simple task-based HRC dataset for human motion estimation. This dataset provides RGB, depth, and 3D skeleton data from 10 participants (5 repetitions each) performing a block arrangement task in collaboration with a Franka Emika Panda robot. The dataset contains a total of 2190 samples, each containing 40 frames for each data modality.
+In this repository we present MHRC, a multimodal, simple task-based human-robot collaboration (HRC) dataset for human motion estimation. This dataset provides RGB, depth, and 3D skeleton data from 10 participants (5 repetitions each) performing a block arrangement task in collaboration with a Franka Emika Panda robot. The dataset contains a total of 2190 samples, each containing 40 frames for each data modality.
 </div>
 
 ### Dataset description
