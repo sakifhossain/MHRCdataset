@@ -20,4 +20,4 @@ In this repository we present MHRC, a multimodal, simple task-based human-robot 
 
 
 ### Citing
- If you use our code, please cite our work (**TBD**)
+ If you use our code, please cite our work (**TBA**)
