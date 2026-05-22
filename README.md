@@ -20,4 +20,14 @@ In this repository we present MHRC, a multimodal, simple task-based human-robot 
 
 
 ### Citing
- If you use our dataset, please cite our work (**TBA**)
+ If you use our dataset, please cite our work.
+  ```
+@inproceedings{hossain2026mhrc,
+  title={MHRC: A Multimodal Human-Robot Collaboration Dataset for Human Motion Estimation},
+  author={Hossain, Sakif and M{\"u}ller, J{\"o}rg P and Kesavan, Madhumitha},
+  booktitle={2026 12th International Conference on Automation, Robotics and Applications (ICARA)},
+  pages={48--52},
+  year={2026},
+  organization={IEEE}
+}
+ ```
